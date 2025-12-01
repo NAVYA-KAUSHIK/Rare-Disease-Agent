@@ -13,10 +13,10 @@
     • QUERY EMBEDDING  ➔  Microsoft PubMedBERT Model           
 
 
-    • VECTOR SEARCH    ➔  Finds top-5 relevant medical cases   
+    • VECTOR SEARCH    ➔  Finds top-5 relevant medical cases (from our database) 
 
 
-    • LLM INFERENCE    ➔  Mistral-7B (Geneticist Persona)      
+    • LLM INFERENCE    ➔  Mistral-7B (performs Retrieval-Augmented Generation (RAG) to synthesize a diagnosis and treatment plan strictly from the retrieved evidence)     
 
 
               
